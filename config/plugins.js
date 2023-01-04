@@ -1,3 +1,5 @@
+// vercel configurations VERY IMPORTANT
+
 module.exports = ({ env }) => ({
     "vercel-deploy": {
       enabled: true,
